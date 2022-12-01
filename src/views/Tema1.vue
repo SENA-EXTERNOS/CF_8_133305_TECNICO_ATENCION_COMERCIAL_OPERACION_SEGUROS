@@ -56,7 +56,7 @@
 
     .bg_slyder.px-5.py-3.mb-5
       SlyderA(tipo="b")
-          .row.justify-content-center.align-items-center.my-lg-4
+          .row.justify-content-center.my-lg-4
             .col-lg-5.mb-4.mb-lg-0.pt-5.pt-0.position-relative
               .number(data-number="01")
                 h4.ps-4 El alcance
@@ -73,7 +73,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img6.png')  
 
-          .row.justify-content-center.align-items-center.my-lg-4
+          .row.justify-content-center.my-lg-4
             .col-lg-5.mb-4.mb-lg-0.pt-5.pt-0.position-relative
               .number(data-number="03")
                 h4.ps-4 Medidas de confidencialidad implementadas
@@ -82,7 +82,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img7.png')  
 
-          .row.justify-content-center.align-items-center.my-lg-4
+          .row.justify-content-center.my-lg-4
             .col-lg-5.mb-4.mb-lg-0.pt-5.pt-0.position-relative
               .number(data-number="04")
                 h4.ps-4 Excepciones
@@ -91,7 +91,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img8.png')  
 
-          .row.justify-content-center.align-items-center.my-lg-4
+          .row.justify-content-center.my-lg-4
             .col-lg-5.mb-4.mb-lg-0.pt-5.pt-0.position-relative
               .number(data-number="04")
                 h4.ps-4 Consecuencias disciplinarias por incumplimiento de la política de confidencialidad

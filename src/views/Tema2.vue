@@ -268,7 +268,7 @@
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema2/img12.png', alt='')
-        .py-3.py-md-4.px-5(titulo="Don’t lie to yourself")
+        .py-3.py-md-4.px-5(titulo="Políticas legales")
           .row
             .col-md-8.mb-4.mb-md-0              
               p El incumplimiento de la ley de protección de datos, expone a sanciones económicas y operativas, pero también se enfrentan problemas de reputación que pueden costarle al negocio, hasta 2,000 SMMLV:
