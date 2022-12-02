@@ -164,7 +164,7 @@ export default {
     {
       termino: 'DNS',
       significado:
-        'son las siglas de Domain Name System (Sistema de nombres de dominio), la cual hace referencia a una tecnología para resolver los nombres en las redes.',
+        'son las siglas de <i>Domain Name System</i> (Sistema de nombres de dominio), la cual hace referencia a una tecnología para resolver los nombres en las redes.',
     },
     {
       termino: 'Flujograma',
@@ -184,7 +184,7 @@ export default {
     {
       termino: 'Spyware',
       significado:
-        'se refiere a programas, aplicaciones o software que realizan espionaje en nuestros dispositivos y sistemas de información.',
+        'se refiere a programas, aplicaciones o <i>software</i> que realizan espionaje en nuestros dispositivos y sistemas de información.',
     },
     {
       termino: 'Troyano',

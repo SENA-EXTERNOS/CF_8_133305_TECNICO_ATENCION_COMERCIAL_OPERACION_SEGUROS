@@ -143,7 +143,7 @@
           TabsA.mt-5.mb-5
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="Jira")
               p Es una plataforma creada principalmente para el seguimiento y la gestión de proyectos. Sin embargo, Jira también se puede usar para la ingeniería de requisitos junto con Confluence, lo que le permite rastrear y personalizar docenas de tareas y proyectos con sus requisitos, en un momento dado. Los profesionales de gestión de ingeniería pueden hacer un gran uso de esta plataforma para realizar un seguimiento de las tareas del proyecto (problemas) y crear requisitos a nivel de problema.
-              p La integración de Jira con Confluence, brinda mucho control y personalización a los gerentes de ingeniería. Puede crear los flujos de trabajo de varias maneras y permitir que todos vean las páginas de requisites, en línea con los problemas/tareas de Jira que le correspondan.                                               
+              p La integración de Jira con Confluence, brinda mucho control y personalización a los gerentes de ingeniería. Puede crear los flujos de trabajo de varias maneras y permitir que todos vean las páginas de requisitos, en línea con los problemas/tareas de Jira que le correspondan.                                               
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="<i>Doc sheets</i>")
               p Es una de las herramientas de ingeniería de requisitos más eficiente, que ayuda a controlar y personalizar todo el ciclo de vida de un proyecto. La herramienta permite administrar la documentación y hace que la trazabilidad sea más fácil y rápida que nunca.
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="Requisitos Hub")
@@ -195,7 +195,7 @@
             p El Estatuto General de Contratación de la Administración Pública.
           .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 527 de 1999")
             p Se reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.            
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Directiva presidencial 02 del año 2000")
+          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Directiva presidencial<br/>02 del año 2000")
             p Gobierno en línea.
           .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 594 de 2000")
             p Ley General de Archivos.

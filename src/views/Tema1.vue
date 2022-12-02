@@ -48,7 +48,7 @@
         .row.justify-content-center.mb-4 
           .col-6 
             figure 
-              img(src='@/assets/curso/temas/tema1/img2.png', alt='')       
+              img(src='@/assets/curso/temas/tema1/img4.png', alt='')       
         p.text-center Dar a conocer que la falta de protección y seguridad de la información confidencial, no solo puede conducir a la pérdida de negocios o clientes, sino que también se abre al peligro que la información confidencial se utilice para cometer actividades ilegales o inmorales.
 
     p.mt-5.mb-5 Por otra parte, es importante que las organizaciones conozcan cuándo deben crear las políticas de confidencialidad y qué elementos la deben de conformar para, de esta forma, garantizar un adecuado manejo de la información y que esta no se advierta vulnerada por terceros.
@@ -185,19 +185,19 @@
         .col-md-8
           TabsA.mt-5.mb-5
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="<i>Malware</i>")
-              p Es un término que se utiliza para describir el software malicioso, como spyware, ransomware, virus y gusanos. El malware ingresa a las redes a través de vulnerabilidades. El software malicioso, generalmente se instala cuando un usuario hace clic en un enlace malicioso o en un archivo adjunto de un correo electrónico. Una vez dentro del sistema, el malware puede: 
+              p Es un término que se utiliza para describir el #[i software] malicioso, como #[i spyware, ransomware], virus y gusanos. El #[i malware] ingresa a las redes a través de vulnerabilidades. El #[i software] malicioso, generalmente se instala cuando un usuario hace clic en un enlace malicioso o en un archivo adjunto de un correo electrónico. Una vez dentro del sistema, el #[i malware] puede: 
               ol.lista-ol--cuadro
                 li 
                 |#[span.color-vineta-1 >] #[span.text-bold] Bloquear el acceso a componentes críticos de la red (#[i ransomware]).
                 li 
-                |#[span.color-vineta-1 >] #[span.text-bold] Instalar malware adicional o #[i software] malicioso.  
+                |#[span.color-vineta-1 >] #[span.text-bold] Instalar #[i malware] adicional o #[i software] malicioso.  
                 li 
                 |#[span.color-vineta-1 >] #[span.text-bold] Desde la unidad, obtener información de forma encubierta, transfiriendo datos (#[i spyware]).  
                 li 
                 |#[span.color-vineta-1 >] #[span.text-bold] Destruir ciertos componentes y renderizar el sistema a inoperable.                                       
         
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="<i>Phishing</i>")
-              p Es la práctica de enviar comunicaciones engañosas, generalmente por correo electrónico, que parecen provenir de una fuente confiable. Su propósito es robar o acceder a datos confidenciales, como las tarjetas de crédito y contraseñas de inicio de sesión, así como también instalar malware en la computadora de la víctima. El phishing es cada vez más común como práctica fraudulenta.
+              p Es la práctica de enviar comunicaciones engañosas, generalmente por correo electrónico, que parecen provenir de una fuente confiable. Su propósito es robar o acceder a datos confidenciales, como las tarjetas de crédito y contraseñas de inicio de sesión, así como también instalar #[i malware] en la computadora de la víctima. El #[i phishing] es cada vez más común como práctica fraudulenta.
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="<i>Man-in-the-middle</i>(MitM)")
               p También conocido como espionaje, ocurre cuando un atacante compromete una transacción entre dos partes. Si un atacante interfiere con su tráfico, puede filtrar y robar sus datos. Las dos maneras de vulnerar la seguridad:
               ol.lista-ol--cuadro
@@ -208,7 +208,7 @@
                   .lista-ol--cuadro
                   span #[span.color-vineta-2 2.] Una vez que el malware está en el dispositivo, el atacante puede instalar un #[i software] que maneja toda la información de la víctima.
                           
-            .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ataque de denegación de servicio")
+            .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ataque de denegación<br/>de servicio")
               p Un ataque de denegación de servicio inunda un sistema, servidor o red con tráfico, consumiendo recursos y ancho de banda. Como resultado, el sistema no podrá procesar solicitudes legítimas. Los atacantes también pueden usar múltiples dispositivos comprometidos para lanzar este ataque. Esto se conoce como ataque de denegación de servicio distribuido (DDoS).
             .tarjeta.color-borde-slider.color-slider.p-4(titulo="Inyección SQL")
               p La inyección de lenguaje de consulta estructurado (SQL), ocurre cuando un atacante inyecta un código malicioso en un servidor que usa SQL, lo que hace que el servidor revele información que normalmente no revelaría. Un atacante puede realizar una inyección SQL simplemente enviando un código malicioso al cuadro de búsqueda de un sitio #[i web] vulnerable.
@@ -344,7 +344,7 @@
 
             p(numero="2" titulo="Almacenes de datos en crecimiento") La gestión de #[i Big data] se dificulta porque, la dimensión de los datos trabajados, son de gran tamaño y con tendencia al crecimiento. Tomando de referencia el caso de la dirección del cliente, es muy fácil corregirlo en una empresa pequeña con apenas un centenar de clientes. Por lo anterior, el error es fácil de identificar y, por ende, darle una solución de manera inmediata. Pero con minoristas y mayoristas y con millones de clientes y petabytes de datos, se necesitan diferentes soluciones. Con frecuencia es mover datos, de una base de datos a una solución de análisis y se requiere algo de tiempo por la gran cantidad de información. 
 
-            p(numero="3" titulo="Alta complejidad de datos y su arquitectura") Es importante que la empresa disponga de herramientas para la atención de este sistema, de manera que se agilice el proceso y, especialmente, la respuesta pertinente y oportuna al cliente
+            p(numero="3" titulo="Alta complejidad de datos y su arquitectura") Los datos comerciales no se almacenan en varios silos, crecen constantemente y pueden volverse muy complejos. Las organizaciones, normalmente tienen datos estructurados (datos que residen en bases de datos) y datos no estructurados (datos que residen en documentos de texto, imágenes, videos, archivos de audio, presentaciones, etc.), y estos datos son compartidos por la organización o miles de aplicaciones propias. Su sistema permite escribir y leer desde varias bases de datos. Como resultado, se vuelve difícil catalogar los tipos de datos que existen en los sistemas de almacenamiento de una organización.
 
             p(numero="4" titulo="Asegurar la calidad de los datos") Estas oportunidades de mejora, dificultan que las organizaciones garanticen la confiabilidad y precisión de los datos. Como se mencionó anteriormente, los silos de datos no sincronizados dificultan que los administradores determinen qué datos son correctos. Otro factor que limita la calidad de los datos es el error humano.
 
@@ -352,7 +352,7 @@
             
             p(numero="6" titulo="Falta de apoyo ejecutivo") Otro problema con la gestión de datos a gran escala, son los gerentes y ejecutivos que no entienden la importancia y el valor de una buena gestión de datos. La tecnología de análisis predictivo y la inteligencia artificial, pueden atraer mucha atención y presupuesto, pero el proceso mundano de mover y limpiar datos es menos emocionante. Sin embargo, este problema parece haber disminuido algo.
 
-            p(numero="7" titulo="Incorporación de una cultura amigable con los datos") El paso de una cultura de toma de decisiones basada en la intuición, la opinión o la experiencia, a una cultura basada en datos, es un cambio relevante para todas las empresas. Este cambio de mentalidad entre los empleados y gerentes llevará tiempo; inclusive, la mayoría de los expertos están de acuerdo en que la gestión eficaz de Big data se toma su tiempo.
+            p(numero="7" titulo="Incorporación de una cultura amigable con los datos") El paso de una cultura de toma de decisiones basada en la intuición, la opinión o la experiencia, a una cultura basada en datos, es un cambio relevante para todas las empresas. Este cambio de mentalidad entre los empleados y gerentes llevará tiempo; inclusive, la mayoría de los expertos están de acuerdo en que la gestión eficaz de #[i Big data] se toma su tiempo.
 </template>
 
 <script>
