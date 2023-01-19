@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
    
-    p.mt-5.mb-5 En el siguiente mapa conceptual, podrá conocer cómo está estructurado el presente componente formativo haciendo énfasis en cada una de las temáticas tratadas.
-
+    p.mt-5.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

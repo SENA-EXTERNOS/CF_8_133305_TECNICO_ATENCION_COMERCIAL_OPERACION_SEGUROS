@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Validación de información y optimización del modelo desarrollado',
     descripcionCurso:
-      'En este componente formativo, se van a desarrollar conceptos generales sobre los diferentes aspectos legales en la validación de datos; de igual manera, cómo cuidar la seguridad de la información, junto con la identificación de problemas y cómo corregirlos; finalmente, alcanzar la optimización del uso de los recursos y la implementación de los procesos, con la utilización de datos masivos.',
+      'Este componente formativo aborda conceptos generales sobre los diferentes aspectos legales en la validación de datos; de igual manera, cómo cuidar la seguridad de la información, junto con la identificación de problemas y cómo corregirlos; finalmente, alcanzar la optimización del uso de los recursos y la implementación de los procesos, con la utilización de datos masivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -135,7 +135,7 @@ export default {
     {
       tema: 'Ingeniería de requisitos',
       referencia:
-        'Carrizo, D. y Rojas, J. (2018). Metodologías, técnicas y herramientas en ingeniería de requisitos: un mapeo sistemático. <i>Ingeniare. Rev. chil. Ing., 26</i>(3), p.473-485. ',
+        'Carrizo, D. & Rojas, J. (2018). Metodologías, técnicas y herramientas en ingeniería de requisitos: un mapeo sistemático. <em>Ingeniare, 26(3)</em>, p.473-485. https://www.scielo.cl/scielo.php?pid=S0718-33052018000300473&script=sci_abstract',
       tipo: 'Artículo',
       link:
         'https://www.scielo.cl/scielo.php?pid=S0718-33052018000300473&script=sci_abstract',
@@ -143,14 +143,14 @@ export default {
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022 1 de julio). <i>Ejemplo de Procesamiento de datos</i> [video]. Youtube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022).<em> Ejemplo de Procesamiento de datos</em> [video]. YouTube. https://www.youtube.com/watch?v=K3U38rfBGWw',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=K3U38rfBGWw',
     },
     {
       tema: 'Técnicas de gestión de datos masivos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022 27 de junio). <i>Técnicas para el análisis de datos [video].Youtube.</i>',
+        'Ecosistema de Recursos Educativos Digitales SENA .(2022).<em> Técnicas para el análisis de datos</em> [video]. YouTube. https://www.youtube.com/watch?v=pjTI4UOgkM8&t=51s',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=pjTI4UOgkM8&t=51s',
     },
@@ -210,21 +210,15 @@ export default {
   referencias: [
     {
       referencia:
-        'González, J. (2015). <i>Utilización de las bases de datos relaciones en el sistema de gestión y almacenamiento de datos.</i> Ediciones Paraninfo.',
-      link:
-        'https://biblioteca.sena.edu.co/F/1Q8IM9F3VLEE48JPJ4AVA2ETB86D2KSICP6VMICY4VJIJR4U8D-21875?func=full-set-set&set_number=005687&set_entry=000001&format=999',
+        'González, J. (2015).<em> Utilización de las bases de datos relaciones en el sistema de gestión y almacenamiento de datos.</em> Ediciones Paraninfo.',
     },
     {
       referencia:
-        'Joyanes, L. (2019). <i>Inteligencia de negocios y analítica de datos: una visión global de business intelligence & analytics.</i> Alfaomega.',
-      link:
-        'https://biblioteca.sena.edu.co/F/1Q8IM9F3VLEE48JPJ4AVA2ETB86D2KSICP6VMICY4VJIJR4U8D-22661?func=full-set-set&set_number=005695&set_entry=000002&format=999 ',
+        'Joyanes, L. (2019).<em> Inteligencia de negocios y analítica de datos: una visión global de business intelligence & analytics.</em> Alfaomega.',
     },
     {
       referencia:
-        'Luis, A. (2018). Industria 4.0: <i>la cuarta revolución industrial.</i> Alfaomega.',
-      link:
-        'https://biblioteca.sena.edu.co/F/1Q8IM9F3VLEE48JPJ4AVA2ETB86D2KSICP6VMICY4VJIJR4U8D-24482?func=full-set-set&set_number=005695&set_entry=000005&format=999',
+        'Luis, A. (2018). <em>Industria 4.0: la cuarta revolución industrial.</em> Alfaomega.',
     },
   ],
   creditos: {

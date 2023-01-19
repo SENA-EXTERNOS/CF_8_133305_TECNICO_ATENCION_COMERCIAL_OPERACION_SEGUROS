@@ -21,7 +21,7 @@
           .row.justify-content-center.p-3                
             p Los términos "gestión de requisitos" e "ingeniería de requisitos" normalmente se usan indistintamente, pero son diferentes. RM es una parte de la ingeniería de requisitos, y hacerlo bien marca la diferencia.
                   
-    <separador></separador>
+    separador
     #t_2_1.titulo-segundo.color-acento-contenido.mt-5
       h2 2.1 Ingeniería de requisitos
 
@@ -195,44 +195,44 @@
             p El Estatuto General de Contratación de la Administración Pública.
           .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 527 de 1999")
             p Se reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.            
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Directiva presidencial<br/>02 del año 2000")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq0(titulo="Directiva presidencial<br/>02 del año 2000")
             p Gobierno en línea.
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 594 de 2000")
+          .tarjeta.color-borde-slider.color-slider.bloq.p-4(titulo="Ley 594 de 2000")
             p Ley General de Archivos.
             
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 962 de 2005")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq1(titulo="Ley 962 de 2005")
             p “Simplificación y Racionalización de Trámite. Atributos de seguridad en la Información electrónica de entidades públicas”.
             
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1032 de 2006")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq2(titulo="Ley 1032 de 2006")
             p Habeas Data y se regula el manejo de la información contenida en base de datos personales
           
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1150 de 2007 ")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq3(titulo="Ley 1150 de 2007 ")
             p “Seguridad de la información electrónica en contratación en línea”.
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1273 de 2009 ")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq4(titulo="Ley 1273 de 2009 ")
             p "Delitos Informáticos" protección de la información y los datos.
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1341 de 2009 ")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq5(titulo="Ley 1341 de 2009 ")
             p “Tecnologías de la Información y aplicación de seguridad”.
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1437 de 2011 ")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq6(titulo="Ley 1437 de 2011 ")
             p Código de procedimiento administrativo y de lo contencioso administrativo.   
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="CONPES 3701 de 2011 ")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq7(titulo="CONPES 3701 de 2011 ")
             p Lineamientos de Política para Ciberseguridad y Ciberdefensa.   
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1581 de 2012")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq8(titulo="Ley 1581 de 2012")
             p Protección de Datos Personales.  
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="Ley 1712 de 2014")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq9(titulo="Ley 1712 de 2014")
             p “De transparencia y del derecho de acceso a la información pública nacional”.                        
 
-          .tarjeta.color-borde-slider.color-slider.p-4(titulo="CONPES 3854 de 2016")
+          .tarjeta.color-borde-slider.color-slider.p-4.bloq10(titulo="CONPES 3854 de 2016")
             p Política Nacional de seguridad digital. 
 
       .col-md-4.mt-5 
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/temas/tema2/img10.png', alt='')  
+          img.zin(src='@/assets/curso/temas/tema2/img10.png', alt='')  
 
     .row.justify-content-center.mt-5      
       .col-md-9
@@ -288,7 +288,7 @@
         .col-md-10 
           .cajon.color-secundario.segundo-color-cajon-3.p-2
             .row.justify-content-center.p-3 
-              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para hacerlo, diríjase al menú principal, donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a desarrollar la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.
+              p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 
