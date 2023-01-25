@@ -135,7 +135,7 @@ export default {
     {
       tema: 'Ingeniería de requisitos',
       referencia:
-        'Carrizo, D. & Rojas, J. (2018). Metodologías, técnicas y herramientas en ingeniería de requisitos: un mapeo sistemático. <em>Ingeniare, 26(3)</em>, p.473-485. https://www.scielo.cl/scielo.php?pid=S0718-33052018000300473&script=sci_abstract',
+        'Carrizo, D. & Rojas, J. (2018). Metodologías, técnicas y herramientas en ingeniería de requisitos: un mapeo sistemático. <em>Ingeniare, 26(3)</em>, p.473-485.',
       tipo: 'Artículo',
       link:
         'https://www.scielo.cl/scielo.php?pid=S0718-33052018000300473&script=sci_abstract',
@@ -143,14 +143,14 @@ export default {
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022).<em> Ejemplo de Procesamiento de datos</em> [video]. YouTube. https://www.youtube.com/watch?v=K3U38rfBGWw',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022).<em> Ejemplo de Procesamiento de datos</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=K3U38rfBGWw',
     },
     {
       tema: 'Técnicas de gestión de datos masivos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA .(2022).<em> Técnicas para el análisis de datos</em> [video]. YouTube. https://www.youtube.com/watch?v=pjTI4UOgkM8&t=51s',
+        'Ecosistema de Recursos Educativos Digitales SENA .(2022).<em> Técnicas para el análisis de datos</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=pjTI4UOgkM8&t=51s',
     },
