@@ -180,7 +180,7 @@
     p.mt-5.mb-5 Lo invitamos a ver el siguiente video, donde se amplía la temática sobre seguridad eficaz.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/U9VDtJT_RXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
     h3.mt-5 Normativa sobre la seguridad de la información en Colombia 
