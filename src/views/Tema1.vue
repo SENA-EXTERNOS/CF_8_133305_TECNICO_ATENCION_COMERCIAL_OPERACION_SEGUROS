@@ -176,9 +176,9 @@
         p La seguridad de la información se refiere a los principios, las prácticas y las políticas que tienen como objetivo proteger los datos digitales y otros tipos de información. Las responsabilidades incluyen establecer un conjunto de procesos comerciales que protegen los activos de información, independientemente de cómo se formatee, transmita, procese o almacene la información. No obstante, la información siempre podrá estar vulnerable y recibir un #[span.text-bold ataque cibernético], el cual sucede cuando hay un intento deliberado y malicioso de acceder al sistema de información, ya sea de la organización o de un particular.
         .cajon.color-primario.segundo-color-cajon
           .row.justify-content-center.p-3                
-            p Con frecuencia, el objetivo de los ataques es financiero pero, algunos que han sido realizados, indican que su fin es el de destruir los datos. Los actores maliciosos muchas veces buscan rescates u otras ganancias financieras, pero los ataques pueden llevarse a cabo por una variedad de motivos, incluyendo razones políticas.
+            p Con frecuencia, el objetivo de los ataques es financiero, pero, algunos que han sido realizados, indican que su fin es el de destruir los datos. Los actores maliciosos muchas veces buscan rescates u otras ganancias financieras, pero los ataques pueden llevarse a cabo por una variedad de motivos, incluyendo razones políticas.
 
-    p.mt-5.mb-5  Para conocer más sobre los ataques cibernéticos, a continuación se presentan los más comunes. 
+    p.mt-5 Para conocer más sobre los ataques cibernéticos, a continuación, se presentan los más comunes. 
 
     .bg2.p-5.mg-img.mg-img-top  
       .row.justify-content-center.mt-5 
@@ -263,7 +263,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
             .row(titulo="Depuración de datos").px-5.py-2
               .row
-                p.text-justify La depuración es el primero de los pasos para avanzar en la preparación de los datos, lo que significa que es prioritario identificar y corregir los errores de los datos en su conjunto, de manera que se pueda garantizar que solamente sean enviados los datos limpios y de excelente calidad al el sistema de información, objeto de ser trabajado. 
+                p.text-justify La depuración es el primero de los pasos para avanzar en la preparación de los datos, lo que significa que es prioritario identificar y corregir los errores de los datos en su conjunto, de manera que se pueda garantizar que solamente sean enviados los datos limpios y de excelente calidad al sistema de información, objeto de ser trabajado. 
             div(titulo="Importancia en la depuración de datos").px-5.py-3
               .row
                 p.text-justify Las tareas de procesamiento y limpieza de datos se convierten en relevantes para que, en los datos clasificados, en un único formato, el #[i software] de depuración ayude a limpiar y categorizar la información básica, en una etapa más avanzada, relacionada con la limpieza y perfilado de datos que corresponden al análisis de datos; finalmente, esto es lo que posibilita a los analistas encontrar patrones importantes en datos limpios y validados, que permitan apoyar las decisiones comerciales.

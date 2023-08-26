@@ -124,16 +124,16 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img8.png', alt='', style='')
 
-            .tarjeta.p-4(x="91%" y="10%" numero="+" style='border-radius: 10px; background-color: #fff')
+            .tarjeta.p-4(x="92%" y="10%" numero="+" style='border-radius: 10px; background-color: #fff')
               p.mb-0.text-regular.text-justify Consiste en familiarizarse con todos los detalles importantes relacionados con el proyecto. El cliente brinda detalles sobre sus necesidades y aporta antecedentes críticos. Estudia esos detalles y también se familiariza con tipos similares de soluciones de #[i software]. Este paso proporciona un contexto importante para el desarrollo.
 
-            .tarjeta.p-4(x="99%" y="34%" numero="+" style='border-radius: 10px; background-color: #fff')
+            .tarjeta.p-4(x="100%" y="34%" numero="+" style='border-radius: 10px; background-color: #fff')
               p.mb-0.text-regular.text-justify La verificación garantiza que el #[i software] esté construido según los requisitos del cliente. Por el contrario, la validación garantiza que el #[i software] esté implementando las funciones correctas. Si los requisitos no pasan por la etapa de validación, existe la posibilidad de reformulaciones costosas y que requieran mucho tiempo.
 
-            .tarjeta.p-4(x="99%" y="59%" numero="+" style='border-radius: 10px; background-color: #fff')
+            .tarjeta.p-4(x="100%" y="60%" numero="+" style='border-radius: 10px; background-color: #fff')
               p.mb-0.text-regular.text-justify Durante la fase de especificación, reúne los requisitos funcionales y no funcionales del proyecto. Durante esta etapa se utiliza una variedad de herramientas, incluidos los diagramas de flujo de datos, para agregar más claridad a los objetivos del proyecto.
 
-            .tarjeta.p-4(x="94%" y="84%" numero="+" style='border-radius: 10px; background-color: #fff')
+            .tarjeta.p-4(x="95%" y="84%" numero="+" style='border-radius: 10px; background-color: #fff')
               p.mb-0.text-regular.text-justify Es un proceso continuo que se ejecuta en paralelo a los otros tres procesos que se acaban de describir. Las funciones a realizar se enfocan en: analizar, documentar y priorizar los requisitos y, adicionalmente, brindar una efectiva comunicación con las partes interesadas. Cualquier requisito que necesite modificación, se maneja de manera eficiente y sistemática.
       
       p.mt-5.mb-5 Después de conocer el proceso de ingeniería de requisitos, es importante comprender sobre las herramientas que permiten administrar los proyectos de manera efectiva en la ingeniería de requisitos.
