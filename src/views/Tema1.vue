@@ -62,7 +62,7 @@
                 h4.ps-4 El alcance
                 p.ps-4.mb-0 Las organizaciones establecen políticas de confidencialidad, principalmente, para cumplir con la ley (protección de datos personales y confidencialidad del paciente), y para proteger su ventaja competitiva.
             .col-6.col-lg-7
-              figure
+              figure.px-5
                 img(src='@/assets/curso/temas/tema1/img5.png')
           .row.justify-content-center.align-items-center.my-lg-4
             .col-lg-5.mb-4.mb-lg-0.pt-5.pt-0.position-relative
@@ -70,7 +70,7 @@
                 h4.ps-4 ¿Qué se considera información confidencial?
                 p.ps-4.mb-0 Según la organización, la información confidencial puede incluir datos bancarios, resultados de pruebas de pacientes, resultados de exámenes de alumnos, cantidades en la nómina, fórmulas secretas, listas de clientes y contactos, contraseñas, entre otros.
             .col-6.col-lg-7
-              figure
+              figure.px-5
                 img(src='@/assets/curso/temas/tema1/img6.png')  
 
           .row.justify-content-center.my-lg-4
@@ -79,7 +79,7 @@
                 h4.ps-4 Medidas de confidencialidad implementadas
                 p.ps-4.mb-0 Cómo se manejan los datos personales y cómo los trabajadores deben manejar la información personal que se les revela. Algunos ejemplos podrían incluir guardar bajo llave o asegurar la información confidencial en todo momento, establecer acuerdos de no divulgación y no guardar documentos confidenciales cuando ya no se necesiten.
             .col-6.col-lg-7
-              figure
+              figure.px-5
                 img(src='@/assets/curso/temas/tema1/img7.png')  
 
           .row.justify-content-center.my-lg-4
@@ -88,7 +88,7 @@
                 h4.ps-4 Excepciones
                 p.ps-4.mb-0 Cuándo se puede divulgar información confidencial por razones legítimas (en caso de una inquietud de protección, si lo exige la ley o para la seguridad pública), y qué procedimiento se tiene que seguir en estas ocasiones.
             .col-6.col-lg-7
-              figure
+              figure.px-5
                 img(src='@/assets/curso/temas/tema1/img8.png')  
 
           .row.justify-content-center.my-lg-4
@@ -97,7 +97,7 @@
                 h4.ps-4 Consecuencias disciplinarias por incumplimiento de la política de confidencialidad
                 p.ps-4.mb-0 Acción disciplinaria, despido y, potencialmente, acción legal.
             .col-6.col-lg-7
-              figure
+              figure.px-5
                 img(src='@/assets/curso/temas/tema1/img9.png')     
 
     p.mt-5.mb-5  Las empresas e instituciones en sus procesos de operación y funcionamiento, utilizan información altamente sensible de ser reservada y de uso exclusivo de las organizaciones y sus usuarios. 

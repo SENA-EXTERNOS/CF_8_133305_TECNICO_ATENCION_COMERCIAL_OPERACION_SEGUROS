@@ -214,11 +214,11 @@ export default {
     },
     {
       referencia:
-        'Joyanes, L. (2019).<em> Inteligencia de negocios y analítica de datos: una visión global de business intelligence & analytics.</em> Alfaomega.',
+        'Joyanes, L. (2019). <em>Inteligencia de negocios y analítica de datos: una visión global de business intelligence & analytics.</em> Editorial Alfaomega.',
     },
     {
       referencia:
-        'Luis, A. (2018). <em>Industria 4.0: la cuarta revolución industrial.</em> Alfaomega.',
+        'Luis, A. (2018). <em>Industria 4.0: la cuarta revolución industrial.</em> Editorial Alfaomega.',
     },
   ],
   creditos: {
